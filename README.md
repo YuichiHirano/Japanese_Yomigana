@@ -1,2 +1,11 @@
-# Japanese_Yomigana
-to show Japanese pronounces from Japanese sentences
+日本語の文章から読み仮名を作成するサンプルプログラム
+
+*要件*
+1. カタカナのみで表現
+1. できる限り漢字は正しい読みを与える
+1.  アルファベットは全て弾く(apple != アップル)
+
+*例*
+1. 例1
+    - In:暴れまわるAIの暴走を止める人類最後の戦士Arthurの物語
+    - Out:アバレマワルノボウソウヲトメルジンルイサイゴノセンシノモノガタリ
